@@ -1,6 +1,6 @@
 ### Vivek Radhakrishna
-## MSc Computer Science 
-# BEng Electronics Engineering
+#### MSc Computer Science 
+##### BEng Electronics Engineering
 
 
 
