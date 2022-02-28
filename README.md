@@ -1,4 +1,10 @@
-### Hi there 👋
+### Vivek Radhakrishna
+## MSc Computer Science 
+# BEng Electronics Engineering
+
+
+
+Reach me via email: vivekradhakrishna77@gmail.com
 
 <!--
 **VivekRadhakrishna77/VivekRadhakrishna77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
