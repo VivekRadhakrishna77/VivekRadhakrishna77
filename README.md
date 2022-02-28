@@ -1,7 +1,5 @@
 ### Vivek Radhakrishna
-#### MSc Computer Science 
-##### BEng Electronics Engineering
-
+#### MSc Computer Science (University of Birmingham) // BEng Electronics Engineering (University of Bristol)
 
 
 Reach me via email: vivekradhakrishna77@gmail.com
